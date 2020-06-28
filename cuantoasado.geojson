@@ -1,1 +1,25 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e65b5b",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "Dirección": "Nueva Córdoba, AVK, Rondeau 571, X5000 Córdoba",
+        "Carne": "Buena",
+        "Onda": "La cara de la verga",
+        "Precio ": "Carero el culeado.. ",
+        "Nombre": "Abasto 548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.17907655239105,
+          -31.42430303818921
+        ]
+      }
+    }
+  ]
+}
